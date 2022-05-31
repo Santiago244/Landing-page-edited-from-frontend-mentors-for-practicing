@@ -103,14 +103,20 @@
         text-transform: capitalize;
     
     }
-    
+
+    .svg{
+        position: absolute;
+        left: 28%;
+        top: 15%;
+        height: 30px;
+    }
     .img__cellphone{
         position: absolute;
         z-index: -1;
         background-size: cover;
         width: 25%;
         top: 100px;
-        left:45%;
+        left:38%;
     }
     
     .container__img__cellphone-bggradient-flex{
