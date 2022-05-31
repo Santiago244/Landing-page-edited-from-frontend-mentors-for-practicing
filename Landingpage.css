@@ -82,13 +82,12 @@
         max-width: 50%;
     }
     .container__link_request{
-        margin-left: 10%;
         margin-top: 5%;
         padding: 15px;
         border-radius:5px;
         outline: 1px solid #fff;
         background-color: transparent;
-        width: 40%;
+        width: 30%;
         text-align: center;
         text-transform: capitalize;
         background-color: transparent;
